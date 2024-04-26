@@ -26,7 +26,7 @@ usage() {
     echo -e "\t-c, --clustercaller-file     ClusterCaller output file (tab delimited)"
     echo
     echo "Examples:"
-    echo -e "\tbash $0 -f 'example.fa' -p 200 -l 10 -c 'Chr1A' -a 'A' -r 'T'"
+    echo -e "\tbash $0 -k keyfile_example.txt -c clustercaller_example.txt"
     exit 1
 }
 
@@ -120,7 +120,7 @@ args <- commandArgs(trailingOnly = TRUE)
 # Assign arguments to variables
 key_file <- args[1]
 cc_file <- args[2]
-verbose <- ifelse(args[3]==true, TRUE, FALSE)
+verbose <- ifelse(args[3]=="true", TRUE, FALSE)
 
 # Check for verbose
 if(verbose==TRUE){
@@ -138,8 +138,8 @@ if(verbose==TRUE){
 
 
 # Read in data
-kasp_data<-read.table(cc_file)
-key_file<-read.table(key_file)
+kasp_data<-read.table(cc_file, header=TRUE, sep="\t", check.names=FALSE)
+key_file<-read.table(key_file, header=TRUE, sep="\t", check.names=FALSE)
 
 # Check for verbose
 if(verbose==TRUE){
@@ -148,6 +148,25 @@ if(verbose==TRUE){
     print(head(kasp_data))
     print("### Keyfile head")
     print(head(key_file))
+}
+
+# Pull list of markers
+markers <- colnames(kasp_data)[2:ncol(kasp_data)]
+
+# Check if all markers are found in files
+if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_file[,1]))==1){
+    # Make an empty vector for the vcf output
+    vcf<-c()
+
+    # Run for loop
+    for(i in markers){
+        # Pull data
+        temp1<-kasp_data
+    }
+}else{
+    # Throw error
+    stop("Not all marker names are found in both files. Check case, presence, and spelling of names in both files!")
+    quit(status = 0)
 }
 
 EOF
