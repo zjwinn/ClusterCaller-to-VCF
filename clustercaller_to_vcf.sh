@@ -94,10 +94,23 @@ if [ "$verbose" = true ]; then
     echo
 fi
 
+# Get realpath of files
+key_file_realpath=$(realpath "$key_file")
+cc_file_realpath=$(realpath "$cc_file")
 
+# Check if the real paths exist
+if [ ! -e "$key_file_realpath" ]; then
+    echo "Error: The realpath of key file '$key_file_realpath' does not exist."
+    exit 1
+fi
 
-#run in R
-Rscript - "$key_file" "$cc_file" <<EOF
+if [ ! -e "$cc_file_realpath" ]; then
+    echo "Error: The realpath of cluster caller file '$cc_file_realpath' does not exist."
+    exit 1
+fi
+
+# Run R script
+Rscript - "$key_file_realpath" "$cc_file_realpath" "$verbose" <<EOF
 
 ### R code goes here ###
 
@@ -107,26 +120,34 @@ args <- commandArgs(trailingOnly = TRUE)
 # Assign arguments to variables
 key_file <- args[1]
 cc_file <- args[2]
+verbose <- ifelse(args[3]==true, TRUE, FALSE)
 
-# Get message
-print_string="### Initiating conversion of ClusterCaller data to VCF in R! ###"
+# Check for verbose
+if(verbose==TRUE){
+    # Get message
+    print_string="### Initiating conversion of ClusterCaller data to VCF in R! ###"
 
-# Measure string
-n=nchar(print_string)
+    # Measure string
+    n=nchar(print_string)
 
-# Print message
-print(paste(rep("#", n), collapse = ""))
-print(print_string)
-print(paste(rep("#", n), collapse = ""))
+    # Print message
+    print(paste(rep("#", n), collapse = ""))
+    print(print_string)
+    print(paste(rep("#", n), collapse = ""))
+}
+
 
 # Read in data
 kasp_data<-read.table(cc_file)
 key_file<-read.table(key_file)
 
-# Display head
-print("### ClusterCaller head")
-print(head(kasp_data))
-print("### Keyfile head")
-print(head(key_file))
+# Check for verbose
+if(verbose==TRUE){
+    # Display head
+    print("### ClusterCaller head")
+    print(head(kasp_data))
+    print("### Keyfile head")
+    print(head(key_file))
+}
 
 EOF
