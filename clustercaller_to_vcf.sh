@@ -22,7 +22,6 @@ usage() {
     echo -e "\t-h, --help              Display this help and exit"
     echo
     echo "Arguments:"
-    echo -e "\t-f, --genome-file            Input reference genome file"
     echo -e "\t-k, --key-file               a key file for interpretation of marker calls (tab delimited)"
     echo -e "\t-c, --clustercaller-file     ClusterCaller output file (tab delimited)"
     echo
@@ -35,11 +34,8 @@ usage() {
 verbose=false
 
 # Parse command line options
-while getopts ":f:k:c:vh" opt; do
+while getopts ":k:c:vh" opt; do
     case ${opt} in
-        f | --genome-file )
-            genome_file="$OPTARG"
-            ;;
         k | --key-file )
             key_file="$OPTARG"
             ;;
@@ -64,6 +60,19 @@ while getopts ":f:k:c:vh" opt; do
 done
 shift $((OPTIND -1))
 
+# # Check if required options are provided
+if [ -z "$key_file" ] || [ -z "$cc_file" ]; then
+    echo "Error: Required options are missing. Please provide genome_file, key_file, and clustercaller_file."
+    usage
+fi
+
+# Check if R is installed
+if ! command -v Rscript &> /dev/null; then
+    echo "Error: R is not installed! Please install R staitistical language before running this script. See link or more details: https://cran.r-project.org/ "
+    exit 1
+fi
+
+
 if [ "$verbose" = true ]; then
     # Print header
     echo
@@ -85,36 +94,39 @@ if [ "$verbose" = true ]; then
     echo
 fi
 
-# Function to replace genotype calls with nucleotides
-replace_genotypes() {
-    local marker=$1
-    local genotype=$2
-    case $genotype in
-        "X:X") echo "${genotype_data[$marker,1]}" ;;
-        "Y:Y") echo "${genotype_data[$marker,2]}" ;;
-        "X:Y") echo "${genotype_data[$marker,3]}" ;;
-        *) echo "$genotype" ;;
-    esac
-}
 
-# Read the first dataframe into an array
-mapfile -t dataframe1 < dataframe1.csv
 
-# Read the second dataframe into an associative array
-declare -A genotype_data
-while IFS=$'\t' read -r marker x y no_call; do
-    genotype_data["$marker,1"]=$x
-    genotype_data["$marker,2"]=$y
-    genotype_data["$marker,3"]=$no_call
-done < dataframe2.csv
+#run in R
+Rscript - "$key_file" "$cc_file" <<EOF
 
-# Process and replace genotype calls in the first dataframe
-for ((i = 0; i < ${#dataframe1[@]}; i++)); do
-    line="${dataframe1[i]}"
-    IFS=$'\t' read -r -a fields <<< "$line"
-    for ((j = 1; j < ${#fields[@]}; j++)); do
-        fields[$j]=$(replace_genotypes "${fields[0]}" "${fields[j]}")
-    done
-    echo -e "${fields[*]}"
-done
-with
+### R code goes here ###
+
+# Get command-line arguments from Bash
+args <- commandArgs(trailingOnly = TRUE)
+
+# Assign arguments to variables
+key_file <- args[1]
+cc_file <- args[2]
+
+# Get message
+print_string="### Initiating conversion of ClusterCaller data to VCF in R! ###"
+
+# Measure string
+n=nchar(print_string)
+
+# Print message
+print(paste(rep("#", n), collapse = ""))
+print(print_string)
+print(paste(rep("#", n), collapse = ""))
+
+# Read in data
+kasp_data<-read.table(cc_file)
+key_file<-read.table(key_file)
+
+# Display head
+print("### ClusterCaller head")
+print(head(kasp_data))
+print("### Keyfile head")
+print(head(key_file))
+
+EOF
