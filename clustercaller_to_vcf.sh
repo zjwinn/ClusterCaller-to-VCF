@@ -22,11 +22,12 @@ usage() {
     echo -e "\t-h, --help              Display this help and exit"
     echo
     echo "Arguments:"
-    echo -e "\t-k, --key-file               a key file for interpretation of marker calls (tab delimited)"
+    echo -e "\t-k, --key-file               A key file for interpretation of marker calls (tab delimited)"
     echo -e "\t-c, --clustercaller-file     ClusterCaller output file (tab delimited)"
+    echo -e "\t-o, --out-file               Name of the vcf to write out (string with no spaces and no following .vcf)"
     echo
     echo "Examples:"
-    echo -e "\tbash $0 -k keyfile_example.txt -c clustercaller_example.txt"
+    echo -e "\tbash $0 -k keyfile_example.txt -c clustercaller_example.txt -o test_file -v"
     exit 1
 }
 
@@ -34,7 +35,7 @@ usage() {
 verbose=false
 
 # Parse command line options
-while getopts ":k:c:vh" opt; do
+while getopts ":k:c:o:vh" opt; do
     case ${opt} in
         k | --key-file )
             key_file="$OPTARG"
@@ -42,6 +43,9 @@ while getopts ":k:c:vh" opt; do
         c | --clustercaller-file )
             cc_file="$OPTARG"
             ;;
+        o | --out-file )
+            out_file="$OPTARG"
+            ;;            
         v | --verbose )
             verbose=true
             ;;
@@ -110,7 +114,7 @@ if [ ! -e "$cc_file_realpath" ]; then
 fi
 
 # Run R script
-Rscript - "$key_file_realpath" "$cc_file_realpath" "$verbose" <<EOF
+Rscript - "$key_file_realpath" "$cc_file_realpath" "$verbose" "$out_file" <<EOF
 
 ### R code goes here ###
 
@@ -121,6 +125,7 @@ args <- commandArgs(trailingOnly = TRUE)
 key_file <- args[1]
 cc_file <- args[2]
 verbose <- ifelse(args[3]=="true", TRUE, FALSE)
+out_file <- args[4]
 
 # Check for verbose
 if(verbose==TRUE){
@@ -138,16 +143,19 @@ if(verbose==TRUE){
 
 
 # Read in data
-kasp_data<-read.table(cc_file, header=TRUE, sep="\t", check.names=FALSE)
-key_file<-read.table(key_file, header=TRUE, sep="\t", check.names=FALSE)
+kasp_data <- read.table(cc_file, header=TRUE, sep="\t", na.strings=c("", "NA"), check.names=FALSE)
+key_file <- read.table(key_file, header=TRUE, sep="\t", na.strings=c("", "NA"), check.names=FALSE)
 
 # Check for verbose
 if(verbose==TRUE){
     # Display head
+    print("")
     print("### ClusterCaller head")
-    print(head(kasp_data))
+    print(kasp_data[1:5,1:3])
+    print("")
     print("### Keyfile head")
-    print(head(key_file))
+    print(key_file[1:5,1:5])
+    print("")
 }
 
 # Pull list of markers
@@ -155,18 +163,173 @@ markers <- colnames(kasp_data)[2:ncol(kasp_data)]
 
 # Check if all markers are found in files
 if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_file[,1]))==1){
-    # Make an empty vector for the vcf output
-    vcf<-c()
+  # Make an empty vector for the vcf output
+  vcf<-c()
+  
+  # Run for loop
+  for(i in markers){
+    # Print
+    if(verbose==TRUE){print(paste("### Formatting marker =", i))}
 
-    # Run for loop
-    for(i in markers){
-        # Pull data
-        temp1<-kasp_data
+    # Get colnames
+    temp1 <- c(colnames(kasp_data)[1], i)
+    
+    # Pull data
+    temp1 <- as.data.frame(kasp_data[,colnames(kasp_data) %in% temp1])
+    
+    # Make into rownames
+    rownames(temp1) <- temp1[,1]
+    
+    # Remove column
+    temp1 <- data.frame(temp1[,2],
+                        row.names = rownames(temp1),
+                        check.names = FALSE)
+    
+    # Pull key
+    temp2 <- key_file[key_file[,"marker"]==i,]
+    
+    # if
+    if(as.character(temp2[1,"X"])=="N"){
+      # Replace things in temp1
+      temp1[,1] <- suppressWarnings(gsub("X", temp2[1,"X"], temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub("Y", temp2[1,"Y"], temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub("No Call", 
+                                         paste(temp2[,"No Call"], 
+                                         ":", 
+                                         temp2[,"No Call"],
+                                         sep = ""), 
+                                         temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub(":", "|", temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub(temp2[1,"Y"], 0, temp1[,1]))
+      #temp1[,1] <- suppressWarnings(gsub(temp2[1,"X"], 1, temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub("N", ".", temp1[,1]))
+      temp1.1 <- as.vector(temp1[,1])
+      names(temp1.1) <- rownames(temp1)
+      temp1 <- temp1.1
+      remove(temp1.1)
+
+      # Pull info
+      temp3 <- suppressWarnings(as.character(temp2[1,"chr"]))
+      temp4 <- suppressWarnings(as.numeric(temp2[1,"position"]))
+      temp5 <- suppressWarnings(as.character(temp2[1,"marker"]))
+      temp6 <- suppressWarnings(as.character(temp2[1,"X"]))
+      temp7 <- suppressWarnings(as.character(temp2[1,"Y"]))
+
+      # Make vcf line
+      temp3 <- data.frame("#CHROM" = temp3,
+                          POS = ifelse(is.na(temp4), ".", temp4),
+                          ID = temp5,
+                          REF = ifelse(temp6=="N", ".", temp6),
+                          ALT = ifelse(temp7=="N", ".", temp7),
+                          QUAL = ".",
+                          FILTER = "PASS",
+                          INFO = ".",
+                          FORMAT = "GT",
+                          t(temp1),
+                          check.names = FALSE)
+      rownames(temp3) <- NULL
+
+      # Rbind into vcf
+      vcf <- rbind(vcf, temp3)
+      
+      # Remove
+      remove(temp1, temp2, temp3, temp4, temp5, temp6, temp7)        
+    }else{
+      # Replace things in temp1
+      temp1[,1] <- suppressWarnings(gsub("X", temp2[1,"X"], temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub("Y", temp2[1,"Y"], temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub("No Call", 
+                                         paste(temp2[,"No Call"], 
+                                         ":", 
+                                         temp2[,"No Call"],
+                                         sep = ""), 
+                                         temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub(":", "|", temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub(temp2[1,"Y"], 0, temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub(temp2[1,"X"], 1, temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub("N", ".", temp1[,1]))
+      temp1.1 <- as.vector(temp1[,1])
+      names(temp1.1) <- rownames(temp1)
+      temp1 <- temp1.1
+      remove(temp1.1)
+
+      # Pull info
+      temp3 <- suppressWarnings(as.character(temp2[1,"chr"]))
+      temp4 <- suppressWarnings(as.numeric(temp2[1,"position"]))
+      temp5 <- suppressWarnings(as.character(temp2[1,"marker"]))
+      temp6 <- suppressWarnings(as.character(temp2[1,"X"]))
+      temp7 <- suppressWarnings(as.character(temp2[1,"Y"]))
+      
+      # Make vcf line
+      temp3 <- data.frame("#CHROM" = temp3,
+                          POS = ifelse(is.na(temp4), ".", temp4),
+                          ID = temp5,
+                          REF = ifelse(temp6=="N", ".", temp6),
+                          ALT = ifelse(temp7=="N", ".", temp7),
+                          QUAL = ".",
+                          FILTER = "PASS",
+                          INFO = ".",
+                          FORMAT = "GT",
+                          t(temp1),
+                          check.names = FALSE)
+      rownames(temp3) <- NULL
+
+      # Rbind into vcf
+      vcf <- rbind(vcf, temp3)
+      
+      # Remove
+      remove(temp1, temp2, temp3, temp4, temp5, temp6, temp7)           
     }
+  }
+  
+  # Add metadata header
+  header <- matrix(nrow = 3, ncol = ncol(vcf))
+  header[is.na(header)] <- ""
+  header[,1] <- c("##fileformat=VCFv4.2",
+                  '##clustercaller_to_vcf=<ID=GenotypeTable,Version=1.0,Description="KASP assays converted to VCF format. Some positions may be missing.">',
+                  '##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">')
+
+  # VCF merge
+  vcf <- vcf[order(vcf[,1]),]
+  vcf <- rbind(colnames(vcf), vcf)
+  vcf <- as.matrix(vcf)
+  colnames(vcf) <- NULL
+  vcf <- rbind(header, vcf)
+  
+  write.table(vcf, 
+              paste(out_file, ".vcf", sep = ""),
+              row.names = FALSE,
+              col.names = FALSE,
+              quote = FALSE,
+              sep = "\t")
 }else{
-    # Throw error
-    stop("Not all marker names are found in both files. Check case, presence, and spelling of names in both files!")
-    quit(status = 0)
+  # Throw error
+  stop("Not all marker names are found in both files. Check case, presence, and spelling of names in both files!")
+  quit(status = 0)
 }
 
+# Displaying warnings
+if(verbose==TRUE){warnings()}
 EOF
+
+# Display step
+if [ "$verbose" = true ]; then
+echo
+echo "##############################"
+echo "### Compressing VCF output ###"
+echo "##############################"
+fi
+
+# Bgzip the file
+bgzip -f $out_file.vcf
+
+# Display end
+if [ "$verbose" = true ]; then
+echo
+echo "#############"
+echo "### Done! ###"
+echo "#############"
+fi
+
+# Exit without error
+exit 1
