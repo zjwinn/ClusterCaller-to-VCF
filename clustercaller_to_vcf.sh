@@ -15,7 +15,7 @@ usage() {
     echo "Description:"
     echo -e "\tThis script will take KASP assay calls made through ClusterCaller and"
     echo -e "\tformat them into a variant calling format (VCF) file. The output of this script"
-    echo -e "\tmay then be taken and used in downstream process"
+    echo -e "\tmay then be taken and used in downstream process."
     echo 
     echo "Options:"
     echo -e "\t-v, --verbose           Enable verbose mode"
@@ -27,7 +27,7 @@ usage() {
     echo -e "\t-o, --out-file               Name of the vcf to write out (string with no spaces and no following .vcf)"
     echo
     echo "Examples:"
-    echo -e "\tbash $0 -k keyfile_example.txt -c clustercaller_example.txt -o test_file -v"
+    echo -e "\tbash $0 -k keyfile_example.txt -c clustercaller_example.txt -o output_example -v"
     exit 1
 }
 
@@ -65,8 +65,8 @@ done
 shift $((OPTIND -1))
 
 # # Check if required options are provided
-if [ -z "$key_file" ] || [ -z "$cc_file" ]; then
-    echo "Error: Required options are missing. Please provide genome_file, key_file, and clustercaller_file."
+if [ -z "$key_file" ] || [ -z "$cc_file" ] || [ -z "$out_file" ]; then
+    echo "Error: Required options are missing. Please provide key, clustercaller, and output file."
     usage
 fi
 
