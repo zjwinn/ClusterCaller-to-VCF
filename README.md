@@ -1,5 +1,5 @@
 # Introduction
-ClusterCaller-to-VCF is a shell script written to take the output from ClusterCaller software and convert it into a compressed variant calling format file (vcf.gz) using base R data manipulation functions. This VCF is compiant with formating requirments and is readable in other programs like [TASSEL](https://www.maizegenetics.net/tassel).
+ClusterCaller-to-VCF is a shell script written to take the output from ClusterCaller software and convert it into a compressed variant calling format file (vcf.gz) using base R data manipulation functions. This VCF is compliant with formatting requirements and is readable in other programs like [TASSEL](https://www.maizegenetics.net/tassel).
 
 # Required inputs
 ClusterCaller-to-VCF requires three inputs:
@@ -14,7 +14,7 @@ To call on the ClusterCaller-to-VCF function, the user must call on the [cluster
 ```bash
 bash clustercaller_to_vcf.sh
 ```
-This can either be in the directy where you have pulled the repository or a direct path to the location of the installation. To view the usage file for futher assistance use the following command:
+This can either be in the directory where you have pulled the repository or a direct path to the location of the installation. To view the usage file for further assistance use the following command:
 ```bash
 bash clustercaller_to_vcf.sh --help
 ```
@@ -28,7 +28,7 @@ bash clustercaller_to_vcf.sh \
 ```
 This will result in a compressed VCF file that looks like [this example](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/output_example.vcf.gz).
 
-# Requirments
+# Requirements
 The bash script provided in this GitHub repository requires the following to run properly:
 1. R statistical coding language - [link to page](https://www.r-project.org/)
 2. samtools/bcftools - [link to page](https://samtools.github.io/bcftools/)
