@@ -8,3 +8,10 @@ ClusterCaller-to-VCF requires three inputs:
 3. A string for output name (i.e., "output_example")
 
 Both files provided to the ClusterCaller-to-VCF function must be tab delimited and marker names are case-sensitive and must match exactly. 
+
+# Usage
+To call on the ClusterCaller-to-VCF function, the user must call on the [clustercaller_to_vcf.sh](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/clustercaller_to_vcf.sh) file directly using the following argument:
+
+```bash
+bash clustercaller_to_vcf.sh
+```
