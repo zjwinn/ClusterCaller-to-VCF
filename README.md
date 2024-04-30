@@ -1,5 +1,5 @@
 # Introduction
-ClusterCaller-to-VCF is a shell script written to take the output from ClusterCaller software and convert it into a compressed variant calling format file (vcf.gz). This VCF is compiant with formating requirments and is readable in other programs like [TASSEL](https://www.maizegenetics.net/tassel).
+ClusterCaller-to-VCF is a shell script written to take the output from ClusterCaller software and convert it into a compressed variant calling format file (vcf.gz) using base R data manipulation functions. This VCF is compiant with formating requirments and is readable in other programs like [TASSEL](https://www.maizegenetics.net/tassel).
 
 # Required inputs
 ClusterCaller-to-VCF requires three inputs:
