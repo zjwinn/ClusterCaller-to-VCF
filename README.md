@@ -14,7 +14,21 @@ To call on the ClusterCaller-to-VCF function, the user must call on the [cluster
 ```bash
 bash clustercaller_to_vcf.sh
 ```
-This can either be in the directy where you have pulled the repository or a direct path to the location of the installation. To view the usage file for futher assistance use the following command
+This can either be in the directy where you have pulled the repository or a direct path to the location of the installation. To view the usage file for futher assistance use the following command:
 ```bash
 bash clustercaller_to_vcf.sh --help
 ```
+To run the provided example and look at textual output use the following command:
+```bash
+bash clustercaller_to_vcf.sh \
+  -k keyfile_example.txt \
+  -c clustercaller_example.txt \
+  -o output_example \
+  -v
+```
+This will result in a compressed VCF file that looks like [this example](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/output_example.vcf.gz)
+
+# Requirments
+The bash script provided in this GitHub repository requires the following to run properly:
+1. R statistical coding language - [link to page](https://www.r-project.org/)
+2. samtools/bcftools - [link to page](https://samtools.github.io/bcftools/)
