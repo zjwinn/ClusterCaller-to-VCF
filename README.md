@@ -1,7 +1,7 @@
 # Introduction
 ClusterCaller-to-VCF is a shell script written to take the output from ClusterCaller software and convert it into a compressed variant calling format file (vcf.gz) using base R data manipulation functions. This VCF is compliant with formatting requirements and is readable in other programs like [TASSEL](https://www.maizegenetics.net/tassel).
 
-# Required inputs
+# Required Inputs
 ClusterCaller-to-VCF requires three inputs:
 1. A ClusterCaller formatted output - [example](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/clustercaller_example.txt)
 2. A key file which relates ClusterCaller output to allelic states - [example](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/keyfile_example.txt)
@@ -28,7 +28,7 @@ bash clustercaller_to_vcf.sh \
 ```
 This will result in a compressed VCF file that looks like [this example](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/output_example.vcf.gz).
 
-# Requirements
+# Package Requirements
 The bash script provided in this GitHub repository requires the following to run properly:
 1. R statistical coding language - [link to page](https://www.r-project.org/)
 2. samtools/bcftools - [link to page](https://samtools.github.io/bcftools/)
