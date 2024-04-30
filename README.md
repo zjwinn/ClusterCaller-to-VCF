@@ -32,3 +32,4 @@ This will result in a compressed VCF file that looks like [this example](https:/
 The bash script provided in this GitHub repository requires the following to run properly:
 1. R statistical coding language - [link to page](https://www.r-project.org/)
 2. samtools/bcftools - [link to page](https://samtools.github.io/bcftools/)
+Please make sure you have both programs installed properly prior to running to avoid errors.
