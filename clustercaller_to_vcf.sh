@@ -199,7 +199,7 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
                                          temp2[,"No Call"],
                                          sep = ""), 
                                          temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub(":", "|", temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub(":", "/", temp1[,1]))
       temp1[,1] <- suppressWarnings(gsub(temp2[1,"Y"], 0, temp1[,1]))
       #temp1[,1] <- suppressWarnings(gsub(temp2[1,"X"], 1, temp1[,1]))
       temp1[,1] <- suppressWarnings(gsub("N", ".", temp1[,1]))
@@ -219,8 +219,8 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
       temp3 <- data.frame("#CHROM" = temp3,
                           POS = ifelse(is.na(temp4), ".", temp4),
                           ID = temp5,
-                          REF = ifelse(temp6=="N", ".", temp6),
-                          ALT = ifelse(temp7=="N", ".", temp7),
+                          REF = ifelse(temp7=="N", ".", temp7),
+                          ALT = ifelse(temp6=="N", ".", temp6),
                           QUAL = ".",
                           FILTER = "PASS",
                           INFO = ".",
@@ -244,7 +244,7 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
                                          temp2[,"No Call"],
                                          sep = ""), 
                                          temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub(":", "|", temp1[,1]))
+      temp1[,1] <- suppressWarnings(gsub(":", "/", temp1[,1]))
       temp1[,1] <- suppressWarnings(gsub(temp2[1,"Y"], 0, temp1[,1]))
       temp1[,1] <- suppressWarnings(gsub(temp2[1,"X"], 1, temp1[,1]))
       temp1[,1] <- suppressWarnings(gsub("N", ".", temp1[,1]))
@@ -286,11 +286,14 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
   header <- matrix(nrow = 3, ncol = ncol(vcf))
   header[is.na(header)] <- ""
   header[,1] <- c("##fileformat=VCFv4.2",
-                  '##clustercaller_to_vcf=<ID=GenotypeTable,Version=1.0,Description="KASP assays converted to VCF format. Some positions may be missing.">',
+                  '##clustercaller_to_vcf=<ID=GenotypeTable,Version=1.0,Description="KASP assays converted to VCF format. Missing positions reported as 0.">',
                   '##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">')
 
   # VCF merge
-  vcf <- vcf[order(vcf[,1]),]
+  vcf[,"POS"] <- ifelse(vcf[,"POS"]==".", 0, vcf[,"POS"])
+  vcf[,"POS"] <- as.numeric(vcf[,"POS"])
+  vcf <- vcf[order(vcf[,"#CHROM"], vcf[,"POS"]),]
+  #vcf[,"POS"] <- ifelse(is.na(vcf[,"POS"]), ".", vcf[,"POS"])
   vcf <- rbind(colnames(vcf), vcf)
   vcf <- as.matrix(vcf)
   colnames(vcf) <- NULL
