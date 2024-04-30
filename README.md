@@ -26,7 +26,7 @@ bash clustercaller_to_vcf.sh \
   -o output_example \
   -v
 ```
-This will result in a compressed VCF file that looks like [this example](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/output_example.vcf.gz)
+This will result in a compressed VCF file that looks like [this example](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/output_example.vcf.gz).
 
 # Requirments
 The bash script provided in this GitHub repository requires the following to run properly:
