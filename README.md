@@ -11,7 +11,10 @@ Both files provided to the ClusterCaller-to-VCF function must be tab delimited a
 
 # Usage
 To call on the ClusterCaller-to-VCF function, the user must call on the [clustercaller_to_vcf.sh](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/clustercaller_to_vcf.sh) file directly using the following argument:
-
 ```bash
 bash clustercaller_to_vcf.sh
+```
+This can either be in the directy where you have pulled the repository or a direct path to the location of the installation. To view the usage file for futher assistance use the following command
+```bash
+bash clustercaller_to_vcf.sh --help
 ```
