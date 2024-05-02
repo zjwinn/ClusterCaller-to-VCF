@@ -1,120 +1,3 @@
-#!/bin/bash
-
-# Function to display script usage
-usage() {
-    echo
-    echo "###############################################"
-    echo "#                                             #"
-    echo "#               Help Information              #"
-    echo "#                                             #"
-    echo "###############################################"
-    echo
-    echo "Usage:"
-    echo -e "\t$0 [OPTIONS] ARGUMENT"
-    echo
-    echo "Description:"
-    echo -e "\tThis script will take KASP assay calls made through ClusterCaller and"
-    echo -e "\tformat them into a variant calling format (VCF) file. The output of this script"
-    echo -e "\tmay then be taken and used in downstream process."
-    echo 
-    echo "Options:"
-    echo -e "\t-v, --verbose           Enable verbose mode"
-    echo -e "\t-h, --help              Display this help and exit"
-    echo
-    echo "Arguments:"
-    echo -e "\t-k, --key-file               A key file for interpretation of marker calls (tab delimited)"
-    echo -e "\t-c, --clustercaller-file     ClusterCaller output file (tab delimited)"
-    echo -e "\t-o, --out-file               Name of the vcf to write out (string with no spaces and no following .vcf)"
-    echo
-    echo "Examples:"
-    echo -e "\tbash $0 -k keyfile_example.txt -c clustercaller_example.txt -o output_example -v"
-    exit 1
-}
-
-# Default values
-verbose=false
-
-# Parse command line options
-while getopts ":k:c:o:vh" opt; do
-    case ${opt} in
-        k | --key-file )
-            key_file="$OPTARG"
-            ;;
-        c | --clustercaller-file )
-            cc_file="$OPTARG"
-            ;;
-        o | --out-file )
-            out_file="$OPTARG"
-            ;;            
-        v | --verbose )
-            verbose=true
-            ;;
-        h | --help )
-            usage
-            ;;
-        \? )
-            echo "Error: Invalid option -$OPTARG" 1>&2
-            usage
-            ;;
-        : )
-            echo "Error: Option -$OPTARG requires an argument" 1>&2
-            usage
-            ;;
-    esac
-done
-shift $((OPTIND -1))
-
-# # Check if required options are provided
-if [ -z "$key_file" ] || [ -z "$cc_file" ] || [ -z "$out_file" ]; then
-    echo "Error: Required options are missing. Please provide key, clustercaller, and output file."
-    usage
-fi
-
-# Check if R is installed
-if ! command -v Rscript &> /dev/null; then
-    echo "Error: R is not installed! Please install R staitistical language before running this script. See link or more details: https://cran.r-project.org/ "
-    exit 1
-fi
-
-
-if [ "$verbose" = true ]; then
-    # Print header
-    echo
-    echo "###############################################"
-    echo "#                                             #"
-    echo "#          ClusterCaller to VCF v1.0          #"
-    echo "#                                             #"
-    echo "###############################################"
-    echo
-    echo "Written by: Zachary J. Winn PhD"
-    echo "Contact information:"
-    echo -e "\tGovernment Email: zachary.winn@usda.gov"
-    echo -e "\tPersonal Email: zwinn@outlook.com"
-    echo
-    echo "###############################################"
-    echo "# WARNING: This program is not under warranty #"
-    echo "#          Use at your own discretion!        #"
-    echo "###############################################"
-    echo
-fi
-
-# Get realpath of files
-key_file_realpath=$(realpath "$key_file")
-cc_file_realpath=$(realpath "$cc_file")
-
-# Check if the real paths exist
-if [ ! -e "$key_file_realpath" ]; then
-    echo "Error: The realpath of key file '$key_file_realpath' does not exist."
-    exit 1
-fi
-
-if [ ! -e "$cc_file_realpath" ]; then
-    echo "Error: The realpath of cluster caller file '$cc_file_realpath' does not exist."
-    exit 1
-fi
-
-# Run R script
-Rscript - "$key_file_realpath" "$cc_file_realpath" "$verbose" "$out_file" <<EOF
 
 ### R code goes here ###
 
@@ -122,23 +5,23 @@ Rscript - "$key_file_realpath" "$cc_file_realpath" "$verbose" "$out_file" <<EOF
 args <- commandArgs(trailingOnly = TRUE)
 
 # Assign arguments to variables
-key_file <- args[1]
-cc_file <- args[2]
-verbose <- ifelse(args[3]=="true", TRUE, FALSE)
-out_file <- args[4]
+key_file <- "keyfile_example.txt"
+cc_file <- "clustercaller_example.txt"
+verbose <- TRUE
+out_file <- "output_example"
 
 # Check for verbose
 if(verbose==TRUE){
-    # Get message
-    print_string="### Initiating conversion of ClusterCaller data to VCF in R! ###"
-
-    # Measure string
-    n=nchar(print_string)
-
-    # Print message
-    print(paste(rep("#", n), collapse = ""))
-    print(print_string)
-    print(paste(rep("#", n), collapse = ""))
+  # Get message
+  print_string="### Initiating conversion of ClusterCaller data to VCF in R! ###"
+  
+  # Measure string
+  n=nchar(print_string)
+  
+  # Print message
+  print(paste(rep("#", n), collapse = ""))
+  print(print_string)
+  print(paste(rep("#", n), collapse = ""))
 }
 
 
@@ -148,14 +31,14 @@ key_file <- read.table(key_file, header=TRUE, sep="\t", na.strings=c("", "NA"), 
 
 # Check for verbose
 if(verbose==TRUE){
-    # Display head
-    print("")
-    print("### ClusterCaller head")
-    print(kasp_data[1:5,1:3])
-    print("")
-    print("### Keyfile head")
-    print(key_file[1:5,1:5])
-    print("")
+  # Display head
+  print("")
+  print("### ClusterCaller head")
+  print(kasp_data[1:5,1:3])
+  print("")
+  print("### Keyfile head")
+  print(key_file[1:5,1:5])
+  print("")
 }
 
 # Pull list of markers
@@ -370,26 +253,3 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
 
 # Displaying warnings
 if(verbose==TRUE){warnings()}
-EOF
-
-# Display step
-if [ "$verbose" = true ]; then
-echo
-echo "##############################"
-echo "### Compressing VCF output ###"
-echo "##############################"
-fi
-
-# Bgzip the file
-bgzip -f $out_file.vcf
-
-# Display end
-if [ "$verbose" = true ]; then
-echo
-echo "#############"
-echo "### Done! ###"
-echo "#############"
-fi
-
-# Exit without error
-exit 1
