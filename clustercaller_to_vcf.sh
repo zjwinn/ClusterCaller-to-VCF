@@ -290,7 +290,7 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
                   '##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">')
 
   # VCF merge
-  vcf[,"POS"] <- ifelse(vcf[,"POS"]==".", 0, vcf[,"POS"])
+  vcf[,"POS"] <- ifelse(vcf[,"POS"]==".", 1, vcf[,"POS"])
   vcf[,"POS"] <- as.numeric(vcf[,"POS"])
   vcf <- vcf[order(vcf[,"#CHROM"], vcf[,"POS"]),]
   #vcf[,"POS"] <- ifelse(is.na(vcf[,"POS"]), ".", vcf[,"POS"])
