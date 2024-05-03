@@ -293,11 +293,15 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
                   '##clustercaller_to_vcf=<ID=GenotypeTable,Version=1.0,Description="KASP assays converted to VCF format. Missing positions reported as sudo-positions starting at 1.">',
                   '##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">')
   
+  # Print vcf (for debug)
+  # print(vcf[1:nrow(vcf), 1:8])
+  
   # Turn missing positions into a new position
   vcf_mod<-c()
   
   # For loop
-  for (i in unique(vcf[,"#CHROM"])){
+  chr<-unique(vcf[,"#CHROM"])
+  for (i in chr){
     # Pull markers
     temp1 <- vcf[vcf[,"#CHROM"]==i,]
     
@@ -312,7 +316,7 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
       remove(temp1, temp2)
     }else if (nrow(temp1)>0 & nrow(temp2)>0){
       # Pull markers with positions and markers without position
-      temp3 <- vcf[vcf[,"POS"]!=".",]
+      temp3 <- temp1[temp1[,"POS"]!=".",]
       # Assign number for position
       temp2[,"POS"] <- seq(1:nrow(temp2))
       # Rbind
@@ -336,7 +340,10 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
   }
   # Replace
   vcf <- vcf_mod
-  
+
+  # Print vcf (for debug)
+  # print(vcf[1:nrow(vcf), 1:8])
+
   # Make numeric
   vcf[,"POS"] <- as.numeric(vcf[,"POS"])
   
