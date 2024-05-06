@@ -159,15 +159,17 @@ if(verbose==TRUE){
 }
 
 # Pull list of markers
-markers <- colnames(kasp_data)[2:ncol(kasp_data)]
+markers_kasp_data <- colnames(kasp_data)[2:ncol(kasp_data)]
+markers_key_file <- key_file[,"marker"]
+markers_key_file <- markers_key_file[markers_key_file %in% markers_kasp_data]
 
 # Check if all markers are found in files
-if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_file[,1]))==1){
+if(length(markers_key_file)==length(markers_kasp_data)){
   # Make an empty vector for the vcf output
   vcf<-c()
   
   # Run for loop
-  for(i in markers){
+  for(i in markers_kasp_data){
     # Print
     if(verbose==TRUE){print(paste("### Formatting marker =", i))}
     
@@ -293,15 +295,11 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
                   '##clustercaller_to_vcf=<ID=GenotypeTable,Version=1.0,Description="KASP assays converted to VCF format. Missing positions reported as sudo-positions starting at 1.">',
                   '##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">')
   
-  # Print vcf (for debug)
-  # print(vcf[1:nrow(vcf), 1:8])
-  
   # Turn missing positions into a new position
   vcf_mod<-c()
   
   # For loop
-  chr<-unique(vcf[,"#CHROM"])
-  for (i in chr){
+  for (i in unique(vcf[,"#CHROM"])){
     # Pull markers
     temp1 <- vcf[vcf[,"#CHROM"]==i,]
     
@@ -316,7 +314,7 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
       remove(temp1, temp2)
     }else if (nrow(temp1)>0 & nrow(temp2)>0){
       # Pull markers with positions and markers without position
-      temp3 <- temp1[temp1[,"POS"]!=".",]
+      temp3 <- vcf[vcf[,"POS"]!=".",]
       # Assign number for position
       temp2[,"POS"] <- seq(1:nrow(temp2))
       # Rbind
@@ -340,10 +338,7 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
   }
   # Replace
   vcf <- vcf_mod
-
-  # Print vcf (for debug)
-  # print(vcf[1:nrow(vcf), 1:8])
-
+  
   # Make numeric
   vcf[,"POS"] <- as.numeric(vcf[,"POS"])
   
@@ -371,7 +366,24 @@ if(unique(markers %in% key_file[,1])[1]==TRUE & length(unique(markers %in% key_f
               sep = "\t")
 }else{
   # Throw error
-  stop("Not all marker names are found in both files. Check case, presence, and spelling of names in both files!")
+  if(verbose==TRUE){
+    print("################################################")
+    print("### Printing marker names in files for debug ###")
+    print("################################################")
+    print("")
+    print("######################################")
+    print("Markers in ClusterCaller file:")
+    print("------------------------------")
+    print(markers_kasp_data[order(markers_kasp_data)])
+    print("######################################")
+    print("")
+    print("######################################")
+    print("Markers in Key file:")
+    print("--------------------")
+    print(key_file[order(key_file[,"marker"]),"marker"])
+    print("######################################")
+  }
+  stop("Not all marker names are found in both files. Check case, presence, and spelling of names listed above!")
   quit(status = 0)
 }
 
