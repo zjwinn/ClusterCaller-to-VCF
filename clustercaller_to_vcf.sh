@@ -394,13 +394,14 @@ EOF
 # Display step
 if [ "$verbose" = true ]; then
 echo
-echo "##############################"
-echo "### Compressing VCF output ###"
-echo "##############################"
+echo "###########################################"
+echo "### Compressing and Indexing VCF output ###"
+echo "###########################################"
 fi
 
 # Bgzip the file
 bgzip -f $out_file.vcf
+bcftools index $out_file.vcf.gz
 
 # Display end
 if [ "$verbose" = true ]; then
