@@ -295,16 +295,23 @@ if(length(markers_key_file)==length(markers_kasp_data)){
                   '##clustercaller_to_vcf=<ID=GenotypeTable,Version=1.0,Description="KASP assays converted to VCF format. Missing positions reported as sudo-positions starting at 1.">',
                   '##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">')
   
+
   # Turn missing positions into a new position
-  vcf_mod<-c()
+  vcf_mod <- c()
   
+  # Chromosome names
+  chrs <- unique(vcf[,"#CHROM"])
+
   # For loop
-  for (i in unique(vcf[,"#CHROM"])){
+  for (i in chrs){
+    #print
+    print(i)
+
     # Pull markers
-    temp1 <- vcf[vcf[,"#CHROM"]==i,]
+    temp1 <- vcf[vcf[,"#CHROM"]==i & vcf[,"POS"]!=".",]
     
     # Separate out markers with "." for those positions
-    temp2 <- temp1[temp1[,"POS"]==".",]
+    temp2 <- vcf[vcf[,"#CHROM"]==i & vcf[,"POS"]==".",]
     
     # Check
     if (nrow(temp2)==0){
@@ -313,6 +320,8 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       # Remove
       remove(temp1, temp2)
     }else if (nrow(temp1)>0 & nrow(temp2)>0){
+      # print
+      print(2) 
       # Pull markers with positions and markers without position
       temp3 <- vcf[vcf[,"POS"]!=".",]
       # Assign number for position
@@ -338,7 +347,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
   }
   # Replace
   vcf <- vcf_mod
-  
+
   # Make numeric
   vcf[,"POS"] <- as.numeric(vcf[,"POS"])
   
