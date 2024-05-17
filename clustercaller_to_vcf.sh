@@ -306,15 +306,13 @@ if(length(markers_key_file)==length(markers_kasp_data)){
   chrs <- unique(vcf[,"#CHROM"])
   chrs <- chrs[order(chrs)]
 
-  write.csv(vcf, "vcf_body.csv")
-
   # For loop
   for (i in chrs){
     # Pull markers
-    temp1 <- vcf[vcf[,"#CHROM"]==i & vcf[,"POS"]!=".",]
+    temp1 <- vcf[vcf[,"#CHROM"]==i & vcf[,"POS"]!="[.]",]
     
     # Separate out markers with "." for those positions
-    temp2 <- vcf[vcf[,"#CHROM"]==i & vcf[,"POS"]==".",]
+    temp2 <- vcf[vcf[,"#CHROM"]==i & vcf[,"POS"]=="[.]",]
     
     # Check
     if (nrow(temp2)==0){
