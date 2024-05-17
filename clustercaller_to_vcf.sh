@@ -163,6 +163,13 @@ markers_kasp_data <- colnames(kasp_data)[2:ncol(kasp_data)]
 markers_key_file <- key_file[,"marker"]
 markers_key_file <- markers_key_file[markers_key_file %in% markers_kasp_data]
 
+# Check for duplicated markers in either file
+if(any(duplicated(markers_kasp_data))){
+  stop("There are duplicated markers in the ClusterCaller file. Check inputs and resubmit with unique marker names!")
+}else if(any(duplicated(markers_key_file))){
+  stop("There are duplicated markers in the key file. Check inputs and resubmit with unique marker names!")
+}
+
 # Check if all markers are found in files
 if(length(markers_key_file)==length(markers_kasp_data)){
   # Make an empty vector for the vcf output
@@ -402,20 +409,16 @@ if(length(markers_key_file)==length(markers_kasp_data)){
     print("################################################")
     print("")
     print("######################################")
-    print("Markers in ClusterCaller file:")
+    print("Markers in ClusterCaller file yet not in key file:")
     print("------------------------------")
-    print(markers_kasp_data[order(markers_kasp_data)])
-    print("######################################")
-    print("")
-    print("######################################")
-    print("Markers in Key file:")
-    print("--------------------")
-    print(key_file[order(key_file[,"marker"]),"marker"])
+    string <- ifelse(length(markers_kasp_data[!markers_kasp_data %in% markers_key_file])==0, 
+                     "No Missing Markers!",
+                     markers_kasp_data[!markers_kasp_data %in% markers_key_file])
+    print(string)
     print("######################################")
   }
 
   stop("Not all marker names are found in both files. Check case, presence, and spelling of marker names!")
-  quit(status = 0)
 }
 
 # Displaying warnings
