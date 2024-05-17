@@ -228,7 +228,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       
       # Make vcf line
       temp3 <- data.frame("#CHROM" = temp3,
-                          POS = ifelse(is.na(temp4), NA, temp4),
+                          POS = temp4,
                           ID = temp5,
                           REF = ifelse(temp7=="N", ".", temp7),
                           ALT = ifelse(temp6=="N", ".", temp6),
@@ -273,7 +273,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       
       # Make vcf line
       temp3 <- data.frame("#CHROM" = temp3,
-                          POS = ifelse(is.na(temp4), NA, temp4),
+                          POS = temp4,
                           ID = temp5,
                           REF = ifelse(temp6=="N", ".", temp6),
                           ALT = ifelse(temp7=="N", ".", temp7),
@@ -310,10 +310,12 @@ if(length(markers_key_file)==length(markers_kasp_data)){
   for (i in chrs){
     # Pull markers
     temp1 <- vcf[vcf[,"#CHROM"]==i & is.na(vcf[,"POS"])==FALSE,]
+    print(temp1)
     
     # Separate out markers with "." for those positions
     temp2 <- vcf[vcf[,"#CHROM"]==i & is.na(vcf[,"POS"])==TRUE,]
-    
+    print(temp2)
+
     # Check
     if (nrow(temp2)==0){
       # Place in the modified VCF
