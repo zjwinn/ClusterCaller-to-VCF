@@ -172,6 +172,9 @@ if(any(duplicated(markers_kasp_data))){
   stop("There are duplicated markers in the key file. Check inputs and resubmit with unique marker names!")
 }
 
+# make a pattern for illegal characters
+illegal_pattern <- "[^XY:No Call]"
+
 # Check if all markers are found in files
 if(length(markers_key_file)==length(markers_kasp_data)){
   # Make an empty vector for the vcf output
@@ -187,6 +190,12 @@ if(length(markers_key_file)==length(markers_kasp_data)){
     
     # Pull data
     temp1 <- as.data.frame(kasp_data[,colnames(kasp_data) %in% temp1])
+
+    # Check illegal character is found
+    if (any(grepl(illegal_pattern, temp1[,2]))) {
+      # If illegal characters are found, throw an error
+      stop("Error: Illegal character found in column ", i, "!")
+    }
     
     # Make into rownames
     rownames(temp1) <- temp1[,1]
