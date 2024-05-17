@@ -165,8 +165,10 @@ markers_key_file <- markers_key_file[markers_key_file %in% markers_kasp_data]
 
 # Check for duplicated markers in either file
 if(any(duplicated(markers_kasp_data))){
+  print("Error: There are duplicated markers in the ClusterCaller file. Check inputs and resubmit with unique marker names!")
   stop("There are duplicated markers in the ClusterCaller file. Check inputs and resubmit with unique marker names!")
 }else if(any(duplicated(markers_key_file))){
+  print("Error: There are duplicated markers in the key file. Check inputs and resubmit with unique marker names!")
   stop("There are duplicated markers in the key file. Check inputs and resubmit with unique marker names!")
 }
 
@@ -176,7 +178,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
   vcf<-c()
   
   # Run for loop
-  for(i in markers_kasp_data){
+  for(i in unique(markers_kasp_data)){
     # Print
     if(verbose==TRUE){print(paste("### Formatting marker =", i))}
     
