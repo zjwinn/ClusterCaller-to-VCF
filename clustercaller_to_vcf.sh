@@ -194,8 +194,8 @@ if(length(markers_key_file)==length(markers_kasp_data)){
     # Check illegal character is found
     if (any(grepl(illegal_pattern, temp1[,2]))) {
       # If illegal characters are found, throw an error
-      print(paste("Error: Illegal character found in column ", i, "!", sep = ""))
-      stop("Illegal character found in column ", i, "!")
+      print(paste("Error: Illegal character found in column ", i, " of ClusterCaller file!", sep = ""))
+      stop("Illegal character found in column ", i, " of ClusterCaller file!")
     }
     
     # Make into rownames
