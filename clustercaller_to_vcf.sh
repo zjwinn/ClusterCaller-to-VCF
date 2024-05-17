@@ -228,7 +228,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       
       # Make vcf line
       temp3 <- data.frame("#CHROM" = temp3,
-                          POS = ifelse(is.na(temp4), ".", temp4),
+                          POS = ifelse(is.na(temp4), NA, temp4),
                           ID = temp5,
                           REF = ifelse(temp7=="N", ".", temp7),
                           ALT = ifelse(temp6=="N", ".", temp6),
@@ -348,7 +348,6 @@ if(length(markers_key_file)==length(markers_kasp_data)){
     }else if (nrow(temp1)==0){
       # Assign number for position
       temp2[,"POS"] <- seq(1:nrow(temp2))
-      print(temp2)
       # Place in the modified VCF
       vcf_mod<-rbind(vcf_mod, temp2)
       # Add row to header
