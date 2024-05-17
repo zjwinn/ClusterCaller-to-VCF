@@ -306,6 +306,8 @@ if(length(markers_key_file)==length(markers_kasp_data)){
   chrs <- unique(vcf[,"#CHROM"])
   chrs <- chrs[order(chrs)]
 
+  write.csv(vcf, "vcf_body.csv")
+
   # For loop
   for (i in chrs){
     # Pull markers
