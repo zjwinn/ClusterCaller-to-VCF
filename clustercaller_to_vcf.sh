@@ -442,7 +442,7 @@ rscript_exit_status=$?
 # Check the exit status
 if [ $rscript_exit_status -ne 0 ]; then
     echo
-    echo "Error: R script exited with status $rscript_exit_status"
+    echo "Error: R script exited with status $rscript_exit_status. Exiting script!"
     exit 1
 fi
 
