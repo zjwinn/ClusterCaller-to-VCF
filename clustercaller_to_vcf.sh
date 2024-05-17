@@ -329,7 +329,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       remove(temp1, temp2)
     }else if (nrow(temp1)>0 & nrow(temp2)>0){
       # Pull markers with positions and markers without position
-      temp3 <- vcf[is.na(temp1[,"POS"])==FALSE,]
+      temp3 <- temp1[is.na(temp1[,"POS"])==FALSE,]
       # Assign number for position
       temp2[,"POS"] <- seq(1:nrow(temp2))
       # Rbind
