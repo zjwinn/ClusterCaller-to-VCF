@@ -412,6 +412,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
     print(key_file[order(key_file[,"marker"]),"marker"])
     print("######################################")
   }
+  print("ERROR: Not all marker names are found in both files. Check case, presence, and spelling of names listed above!")
   stop("Not all marker names are found in both files. Check case, presence, and spelling of names listed above!")
   quit(status = 0)
 }
@@ -419,6 +420,15 @@ if(length(markers_key_file)==length(markers_kasp_data)){
 # Displaying warnings
 if(verbose==TRUE){warnings()}
 EOF
+
+# Capture the exit status of the R script
+rscript_exit_status=$?
+
+# Check the exit status
+if [ $rscript_exit_status -ne 0 ]; then
+    echo "Error: R script exited with status $rscript_exit_status"
+    exit 1
+fi
 
 # Display step
 if [ "$verbose" = true ]; then
@@ -443,4 +453,4 @@ echo "#############"
 fi
 
 # Exit without error
-exit 1
+exit 0
