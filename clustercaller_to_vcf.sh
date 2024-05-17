@@ -273,7 +273,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       
       # Make vcf line
       temp3 <- data.frame("#CHROM" = temp3,
-                          POS = ifelse(is.na(temp4), ".", temp4),
+                          POS = ifelse(is.na(temp4), NA, temp4),
                           ID = temp5,
                           REF = ifelse(temp6=="N", ".", temp6),
                           ALT = ifelse(temp7=="N", ".", temp7),
@@ -309,10 +309,10 @@ if(length(markers_key_file)==length(markers_kasp_data)){
   # For loop
   for (i in chrs){
     # Pull markers
-    temp1 <- vcf[vcf[,"#CHROM"]==i & vcf[,"POS"]!="[.]",]
+    temp1 <- vcf[vcf[,"#CHROM"]==i & is.na(vcf[,"POS"])==FALSE,]
     
     # Separate out markers with "." for those positions
-    temp2 <- vcf[vcf[,"#CHROM"]==i & vcf[,"POS"]=="[.]",]
+    temp2 <- vcf[vcf[,"#CHROM"]==i & is.na(vcf[,"POS"])==TRUE,]
     
     # Check
     if (nrow(temp2)==0){
@@ -329,7 +329,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       remove(temp1, temp2)
     }else if (nrow(temp1)>0 & nrow(temp2)>0){
       # Pull markers with positions and markers without position
-      temp3 <- vcf[vcf[,"POS"]!=".",]
+      temp3 <- vcf[is.na(vcf[,"POS"])==FALSE,]
       # Assign number for position
       temp2[,"POS"] <- seq(1:nrow(temp2))
       # Rbind
@@ -365,6 +365,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       exit(status = 0)
     }
   }
+  
   # Replace
   vcf <- vcf_mod
 
