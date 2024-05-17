@@ -396,6 +396,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
 }else{
   # Throw error
   if(verbose==TRUE){
+    print("ERROR: Not all marker names are found in both files. Check case, presence, and spelling of markers listed below!")
     print("################################################")
     print("### Printing marker names in files for debug ###")
     print("################################################")
@@ -412,8 +413,8 @@ if(length(markers_key_file)==length(markers_kasp_data)){
     print(key_file[order(key_file[,"marker"]),"marker"])
     print("######################################")
   }
-  print("ERROR: Not all marker names are found in both files. Check case, presence, and spelling of names listed above!")
-  stop("Not all marker names are found in both files. Check case, presence, and spelling of names listed above!")
+
+  stop("Not all marker names are found in both files. Check case, presence, and spelling of marker names!")
   quit(status = 0)
 }
 
@@ -426,6 +427,7 @@ rscript_exit_status=$?
 
 # Check the exit status
 if [ $rscript_exit_status -ne 0 ]; then
+    echo
     echo "Error: R script exited with status $rscript_exit_status"
     exit 1
 fi
