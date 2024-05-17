@@ -328,8 +328,6 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       # Remove
       remove(temp1, temp2)
     }else if (nrow(temp1)>0 & nrow(temp2)>0){
-      # print
-      print(2) 
       # Pull markers with positions and markers without position
       temp3 <- vcf[vcf[,"POS"]!=".",]
       # Assign number for position
