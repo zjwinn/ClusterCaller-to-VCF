@@ -310,12 +310,14 @@ if(length(markers_key_file)==length(markers_kasp_data)){
   for (i in chrs){
     # Pull markers
     temp1 <- vcf[vcf[,"#CHROM"]==i & is.na(vcf[,"POS"])==FALSE,]
-    print(temp1)
     
     # Separate out markers with "." for those positions
     temp2 <- vcf[vcf[,"#CHROM"]==i & is.na(vcf[,"POS"])==TRUE,]
-    print(temp2)
 
+    print(i)
+    print(nrow(temp1))
+    print(nrow(temp2))
+    
     # Check
     if (nrow(temp2)==0){
       # Place in the modified VCF
