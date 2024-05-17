@@ -348,6 +348,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
     }else if (nrow(temp1)==0){
       # Assign number for position
       temp2[,"POS"] <- seq(1:nrow(temp2))
+      print(temp2)
       # Place in the modified VCF
       vcf_mod<-rbind(vcf_mod, temp2)
       # Add row to header
@@ -365,7 +366,7 @@ if(length(markers_key_file)==length(markers_kasp_data)){
       exit(status = 0)
     }
   }
-  
+
   # Replace
   vcf <- vcf_mod
 
