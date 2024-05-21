@@ -3,14 +3,14 @@ KlusterCaller-to-VCF is a shell script written to take the output from KlusterCa
 
 # Required Inputs
 KlusterCaller-to-VCF requires three inputs:
-1. A KlusterCaller formatted output - [example](https://github.com/zjwinn/KlusterCaller-to-VCF/blob/main/klustercaller_example.txt)
-2. A key file which relates KlusterCaller output to allelic states - [example](https://github.com/zjwinn/KlusterCaller-to-VCF/blob/main/keyfile_example.txt)
+1. A KlusterCaller formatted output - [example](https://github.com/zjwinn/KlusterCaller-to-VCF/blob/main/klustercaller_file_example.txt)
+2. A keyfile which relates KlusterCaller output to allelic states - [example](https://github.com/zjwinn/KlusterCaller-to-VCF/blob/main/klustercaller_keyfile_example.txt)
 3. A string for output name (i.e., "output_example")
 
 Both files provided to the KlusterCaller-to-VCF function must be tab delimited and marker names are case-sensitive and must match exactly. 
 
 # Usage
-To call on the KlusterCaller-to-VCF function, the user must call on the [klustercaller_to_vcf.sh](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/clustercaller_to_vcf.sh) file directly using the following argument:
+To call on the KlusterCaller-to-VCF function, the user must call on the [klustercaller_to_vcf.sh](https://github.com/zjwinn/ClusterCaller-to-VCF/blob/main/klustercaller_to_vcf.sh) file directly using the following argument:
 ```bash
 bash klustercaller_to_vcf.sh
 ```
@@ -21,12 +21,12 @@ bash klustercaller_to_vcf.sh --help
 To run the provided example and look at textual output use the following command:
 ```bash
 bash klustercaller_to_vcf.sh \
-  -k keyfile_example.txt \
-  -c klustercaller_example.txt \
-  -o output_example \
+  -k klustercaller_keyfile_example.txt \
+  -c klustercaller_file_example.txt \
+  -o example_output \
   -v
 ```
-This will result in a compressed VCF file that looks like [this example](https://github.com/zjwinn/KlusterCaller-to-VCF/blob/main/output_example.vcf.gz).
+This will result in a compressed VCF file that looks like [this example](https://github.com/zjwinn/KlusterCaller-to-VCF/blob/main/example.vcf.gz).
 
 # Package Requirements
 The bash script provided in this GitHub repository requires the following to run properly:
