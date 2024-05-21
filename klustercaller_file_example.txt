@@ -1,0 +1,1084 @@
+Plate:Well	KASP_cim_RhtB1	KASP_Glu-Ax1-x2	KASP_Glu-Ax2_IND	KASP_RhtD1	KASP_Sr13-REV	KASP_Sr2_ger93p	KASP_TA10438	KASP_TaPpdDD001	KASP_vrn-A1_exon4	KASP_WapoA1_Hap12vs3	KASP_7D_3433772	KASP_7D_5068391	KASP_Bx7oe-CSU	KASP_Gb_Lr19-Sr25	KASP_IWA3551	KASP_Lr9_A	KASP_6D30113169_C1	KASP_TaPpdBJ001	KASP_Vrn-A1b-Marq	KASP_1RS_6110	KASP_Vrn-B1_B	KASP_IWA5194	KASP_wsnp198467
+2024-UESRWWN-1	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-2	X:X	Y:Y	Y:Y	No Call	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	No Call	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-3	X:X	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	No Call	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-4	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X	Y:Y	X:X
+2024-UESRWWN-5	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	No Call	No Call	No Call	No Call
+2024-UESRWWN-6	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-7	Y:Y	Y:Y	X:X	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-8	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UESRWWN-9	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-UESRWWN-10	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-11	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UESRWWN-12	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	X:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UESRWWN-13	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UESRWWN-14	X:X	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-15	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-16	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-17	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-18	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-UESRWWN-19	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-20	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-UESRWWN-21	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-UESRWWN-22	X:X	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-23	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-24	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UESRWWN-25	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-UESRWWN-26	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-27	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UESRWWN-28	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-1	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	X:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-USSRWWN-2	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-3	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-4	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-5	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-6	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-7	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-USSRWWN-8	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-9	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-10	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-11	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	X:X	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-12	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-13	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-USSRWWN-14	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-USSRWWN-15	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	Y:Y	X:Y	X:X	X:Y	Y:Y	X:Y	No Call	No Call	X:Y	Y:Y	X:Y	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-USSRWWN-16	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-17	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-18	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	X:X	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-19	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-20	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-21	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-22	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-USSRWWN-23	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-USSRWWN-24	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-25	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-26	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-27	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-28	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-29	X:X	X:X	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-USSRWWN-30	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-USSRWWN-31	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-32	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-33	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-34	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	X:Y	X:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-35	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-36	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-37	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-USSRWWN-38	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-USSRWWN-39	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-USSRWWN-40	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BLANK-1	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	Y:Y	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-BIGSIX-101	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-102	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-103	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-104	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-105	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	No Call
+2024-BIGSIX-106	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-107	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-108	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-109	Y:Y	Y:Y	X:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-110	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-111	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-112	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-113	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-114	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-115	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-116	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-117	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-118	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-119	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-120	Y:Y	Y:Y	X:X	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-121	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-122	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	No Call	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-123	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-124	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-125	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-126	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-127	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-128	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	No Call	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-129	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	No Call	No Call	No Call	Y:Y	No Call	No Call	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-130	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-131	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	No Call	Y:Y	X:X
+2024-BIGSIX-132	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	No Call	No Call	Y:Y	X:X
+2024-BIGSIX-133	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-134	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-135	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-136	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-137	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-138	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-139	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-140	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-141	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-142	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-143	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-144	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-145	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-146	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-147	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-148	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-149	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-150	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-151	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-152	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-153	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-154	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-155	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-156	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	No Call	Y:Y	X:X
+2024-BIGSIX-157	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-158	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-159	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-160	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-161	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-162	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-163	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	No Call	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-164	Y:Y	Y:Y	X:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X
+2024-BIGSIX-165	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-166	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-167	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-168	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-169	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-170	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BLANK-2	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-BIGSIX-201	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-202	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-203	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-204	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-205	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-206	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-207	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-208	X:X	Y:Y	Y:Y	X:Y	No Call	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-209	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-210	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-211	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-212	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-213	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-214	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-215	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-216	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-217	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-218	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-219	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	X:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-220	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-221	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-222	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-223	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-224	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-225	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-226	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-227	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-228	X:X	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-229	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-230	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	No Call	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-231	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-232	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-233	X:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-234	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	No Call	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-235	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-236	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-237	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-238	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-239	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	X:Y	X:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-240	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-241	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-242	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-243	X:X	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-244	X:X	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-245	X:X	Y:Y	Y:Y	X:X	No Call	Y:Y	X:X	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-246	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-247	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-248	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-249	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-250	X:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-301	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-302	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-303	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-304	X:Y	Y:Y	Y:Y	X:Y	No Call	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-305	X:X	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-306	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-307	X:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-308	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-309	Y:Y	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-310	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-311	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-312	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-313	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-314	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-315	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-316	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-317	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-318	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-319	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-320	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-321	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-322	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-323	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-324	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-325	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-326	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-327	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-328	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-329	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-330	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-331	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-332	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-333	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-334	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-335	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-336	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-337	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-338	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-339	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-340	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-341	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-342	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-343	X:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-344	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	Y:Y	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-345	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-346	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-347	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-348	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-349	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-350	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-351	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-352	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-353	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-354	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-355	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-356	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-357	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-358	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-359	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-402	X:X	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-401	X:X	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-360	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-403	X:X	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-404	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-405	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-406	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-407	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-408	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-409	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-410	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-411	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-412	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-413	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-414	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-415	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-416	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-417	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-418	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-419	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-420	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-421	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-422	X:X	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-423	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-424	X:X	X:X	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-425	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-426	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-427	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-428	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-429	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-430	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-431	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-432	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-433	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-434	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-435	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-436	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-437	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-438	X:X	X:X	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-439	X:X	X:X	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-440	X:X	X:X	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-441	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-442	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-443	X:X	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-444	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-445	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-446	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	No Call
+2024-BIGSIX-447	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-BIGSIX-448	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-449	X:X	X:X	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-450	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-451	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-452	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-453	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-454	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-455	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-456	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-457	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-458	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-459	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-460	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-461	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-462	Y:Y	Y:Y	X:X	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-463	X:X	X:X	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-464	X:X	X:X	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-465	X:X	X:X	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-466	X:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-467	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-468	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-469	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-470	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-501	X:X	X:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-502	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-503	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-504	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-505	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-506	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-507	X:X	X:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-508	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-509	X:X	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-510	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-511	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-512	X:X	X:Y	Y:Y	X:Y	X:X	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-513	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-514	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-515	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	X:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-516	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-517	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-518	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-519	Y:Y	X:X	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-520	X:X	X:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	Y:Y
+2024-BLANK-3	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-BIGSIX-601	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-602	Y:Y	X:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-603	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-604	X:X	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-605	X:X	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-606	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-607	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-608	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-609	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-610	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-611	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-612	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:Y	Y:Y	X:X	Y:Y	X:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-613	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-614	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-615	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-616	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	No Call	Y:Y
+2024-BIGSIX-617	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-618	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-619	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BLANK-11	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	Y:Y	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-CONTROL-01	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	X:X	X:X	Y:Y	X:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-CONTROL-02	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-CONTROL-03	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	X:X	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-CONTROL-04	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	X:Y	X:X	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	X:X	No Call
+2024-CONTROL-05	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-CONTROL-06	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-CONTROL-07	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-CONTROL-08	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-CONTROL-09	X:X	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y
+2024-CONTROL-10	X:X	X:X	Y:Y	Y:Y	No Call	X:Y	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-CONTROL-11	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	X:Y	No Call	X:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-CONTROL-12	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-CONTROL-13	X:X	X:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	X:X	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	Y:Y	X:X	X:X	X:X	X:X
+2024-CONTROL-14	Y:Y	Y:Y	X:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-CONTROL-15	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	Y:Y	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-CONTROL-16	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-CONTROL-17	X:X	X:X	Y:Y	Y:Y	X:X	X:Y	No Call	Y:Y	X:X	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	Y:Y	X:X	X:X	Y:Y	Y:Y
+2024-CONTROL-18	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X	Y:Y	X:X
+2024-CONTROL-19	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-CONTROL-20	Y:Y	X:X	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	No Call	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-CONTROL-21	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-644	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-645	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-646	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-647	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-648	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-649	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-650	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-BIGSIX-651	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-652	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-BIGSIX-653	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-654	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-655	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-656	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-657	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-658	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-659	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	X:X	Y:Y	Y:Y	X:X	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-660	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-661	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-662	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-663	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-664	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-665	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:Y
+2024-BIGSIX-666	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BIGSIX-667	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-668	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	No Call	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-669	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-670	X:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-1	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-2	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-3	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-4	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-5	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-6	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-7	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-8	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-9	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-10	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-11	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-12	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-MDXN-13	X:Y	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-MDXN-14	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-15	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-16	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-17	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-18	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-19	X:X	Y:Y	Y:Y	X:Y	X:X	No Call	No Call	X:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-20	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-21	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-22	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-23	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-24	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-BLANK-4	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	Y:Y	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-MDXN-25	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-26	X:Y	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-27	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-MDXN-28	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-29	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-30	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-31	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-MDXN-32	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	X:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-MDXN-33	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-34	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-35	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-36	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-37	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-MDXN-38	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	X:X	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-40	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-41	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-MDXN-42	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-43	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-44	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-MDXN-45	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-46	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-47	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-48	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-49	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-50	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-51	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-52	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-53	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-54	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-55	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-56	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-57	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-58	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-59	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-60	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	X:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-61	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-MDXN-62	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-63	X:X	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-64	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-65	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-66	Y:Y	X:X	Y:Y	X:X	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	Y:Y	X:X	X:X	Y:Y	X:X
+2024-MDXN-67	Y:Y	X:X	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-MDXN-68	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-69	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	No Call	Y:Y	Y:Y
+2024-MDXN-70	X:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-MDXN-71	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-MDXN-72	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	Y:Y	X:X	No Call	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-MDXN-73	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-MDXN-74	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	Y:Y	X:X	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-MDXN-75	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-76	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-77	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-MDXN-78	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-MDXN-79	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:Y
+2024-MDXN-80	X:X	X:X	Y:Y	X:Y	X:X	X:X	No Call	X:X	X:X	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-2	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-3	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-4	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-5	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-6	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-GAWN-7	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:Y	X:Y	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-8	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-9	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-10	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-GAWN-11	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-12	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-13	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-14	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-15	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-16	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-17	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-18	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-19	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-20	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-21	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-22	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:Y	X:Y	X:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:Y	X:X	X:X	X:X	Y:Y	X:Y
+2024-GAWN-23	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-24	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-25	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-26	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-27	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-28	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-29	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-30	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-31	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-32	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-33	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-34	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-35	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-36	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	X:X	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-37	X:X	X:X	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-38	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-GAWN-39	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-40	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-41	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-42	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-GAWN-43	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y	X:Y	No Call	X:Y	No Call	No Call	X:X	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-44	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-45	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-46	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-47	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-48	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:Y	No Call	No Call	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-49	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:Y	No Call	No Call	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-50	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-51	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-52	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	X:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-GAWN-53	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-54	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	X:X	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:Y	X:X	Y:Y	X:X
+2024-GAWN-55	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-56	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-57	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-GAWN-58	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-59	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-GAWN-60	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BLANK-5	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	Y:Y	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-SUNWHEAT-1	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-2	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-3	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-4	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-5	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	Y:Y	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-6	X:X	X:X	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNWHEAT-7	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-8	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-9	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	Y:Y	Y:Y	X:X	No Call	No Call	No Call	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-10	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	X:X	X:Y	Y:Y	Y:Y	X:Y	Y:Y	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-11	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-12	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-SUNWHEAT-13	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-14	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-15	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-16	X:X	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	X:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-17	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-18	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:Y	Y:Y	X:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-19	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-20	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNWHEAT-21	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-22	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-23	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-24	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-25	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-26	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-27	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	X:Y	X:Y	X:X	Y:Y	No Call	No Call	X:X	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNWHEAT-28	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-29	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-30	X:X	Y:Y	X:X	Y:Y	X:X	X:X	No Call	Y:Y	X:Y	Y:Y	No Call	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-31	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-32	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-33	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-34	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-35	X:X	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-36	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-37	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-38	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-39	X:X	X:X	Y:Y	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNWHEAT-40	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-41	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-42	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-43	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-44	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-45	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-46	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X	Y:Y	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-47	X:X	X:X	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-48	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-49	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-50	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-51	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-52	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-53	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-54	X:Y	X:Y	Y:Y	X:Y	X:X	X:X	Y:Y	X:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	X:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-55	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-56	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-57	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-58	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-59	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-60	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-61	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-62	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-63	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-64	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-65	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-66	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:Y	X:X	Y:Y	X:Y
+2024-SUNWHEAT-67	X:X	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-68	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-69	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-70	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	Y:Y	No Call	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-71	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	No Call	X:X
+2024-SUNWHEAT-72	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-SUNWHEAT-73	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNWHEAT-74	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-75	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	Y:Y	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-76	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-77	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-78	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNWHEAT-79	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-80	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-81	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-82	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-83	Y:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	X:Y	Y:Y	X:Y	X:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-84	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-85	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-86	X:X	X:X	Y:Y	Y:Y	X:X	X:X	X:X	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:Y	Y:Y	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNWHEAT-87	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-88	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-89	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-90	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-91	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-92	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	No Call	Y:Y
+2024-SUNWHEAT-93	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	Y:Y	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	X:X	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-94	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNWHEAT-95	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNWHEAT-96	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BLANK-6	No Call	No Call	No Call	No Call	No Call	No Call	No Call	X:Y	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-NUWWSN-1	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-2	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:Y
+2024-NUWWSN-3	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	Y:Y	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-NUWWSN-4	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-NUWWSN-5	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-6	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-7	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-8	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-9	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-10	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-11	X:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-NUWWSN-12	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-13	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-14	X:X	Y:Y	Y:Y	X:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-NUWWSN-15	X:X	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-NUWWSN-16	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-NUWWSN-17	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-18	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-NUWWSN-19	Y:Y	Y:Y	Y:Y	X:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-NUWWSN-20	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-21	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	No Call	Y:Y
+2024-NUWWSN-22	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-NUWWSN-23	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	No Call	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-24	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-25	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-26	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-NUWWSN-27	Y:Y	Y:Y	X:X	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-28	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-29	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-30	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-31	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-32	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-33	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-34	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-35	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	X:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-36	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-37	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-38	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-39	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-40	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	No Call	X:X
+2024-NUWWSN-41	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-NUWWSN-43	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-NUWWSN-44	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-45	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-46	X:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	Y:Y	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-NUWWSN-47	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-1	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-2	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:Y
+2024-PNUWWSN-3	Y:Y	X:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-PNUWWSN-4	X:X	Y:Y	Y:Y	X:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-PNUWWSN-5	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-6	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-7	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-8	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-9	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-10	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-11	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-12	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-13	X:X	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:Y	Y:Y	X:X	No Call	X:Y	Y:Y	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-PNUWWSN-14	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-15	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-PNUWWSN-16	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-17	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-PNUWWSN-18	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-19	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:Y	Y:Y	X:X	Y:Y	X:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-20	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-PNUWWSN-21	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-22	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-23	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-24	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-25	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-26	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-27	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-28	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y	X:X	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-29	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-30	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:Y
+2024-PNUWWSN-31	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-32	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-33	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-34	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-35	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-36	X:X	X:Y	Y:Y	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-PNUWWSN-37	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-38	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-39	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-PNUWWSN-40	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BLANK-7	No Call	No Call	No Call	No Call	No Call	No Call	No Call	X:Y	No Call	No Call	No Call	No Call	No Call	No Call	Y:Y	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-SUWWSN-1	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	X:X	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUWWSN-2	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	Y:Y	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-3	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-4	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-5	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-6	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-31	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-32	X:X	Y:Y	No Call	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	No Call	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-33	Y:Y	Y:Y	No Call	X:X	No Call	No Call	Y:Y	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	X:X	Y:Y	No Call	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-34	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-35	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-SUWWSN-36	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	No Call	X:X	X:Y	X:X	Y:Y	X:X
+2024-SUWWSN-37	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-38	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-39	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-40	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-41	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	Y:Y	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-42	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-43	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-44	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-45	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-46	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-47	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-48	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-49	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUWWSN-50	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-51	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-52	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-53	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-54	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUWWSN-55	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUWWSN-56	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUWWSN-57	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-58	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUWWSN-59	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-BLANK-8	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-UBWT-1	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-2	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-3	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UBWT-4	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-UBWT-5	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	X:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-UBWT-6	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-7	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-UBWT-8	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-9	Y:Y	X:X	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UBWT-10	X:X	X:X	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-11	Y:Y	X:X	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-12	X:X	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-13	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UBWT-14	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-UBWT-15	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-16	Y:Y	X:X	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-17	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-18	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-19	Y:Y	X:X	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-20	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	X:Y	X:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-21	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X
+2024-UBWT-22	X:X	X:X	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UBWT-23	Y:Y	X:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	X:X	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-24	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-UBWT-25	X:X	X:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-26	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-UBWT-27	X:X	Y:Y	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-28	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-UBWT-29	Y:Y	X:X	Y:Y	X:X	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	X:X	X:X
+2024-UBWT-30	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-1	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-2	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-3	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-4	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-5	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-6	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-7	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-8	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-9	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-10	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-11	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-12	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-13	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-14	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-15	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-16	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-17	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-18	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-19	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-20	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-21	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-22	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-23	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-24	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-SUNPRE-25	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-26	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-27	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-28	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	X:Y	X:Y	Y:Y	X:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-SUNPRE-29	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	Y:Y	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-30	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-31	X:X	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-32	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-33	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-34	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-35	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-36	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	No Call	X:X
+2024-SUNPRE-37	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	No Call	Y:Y	No Call	No Call	X:X	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-38	No Call	Y:Y	No Call	No Call	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	No Call	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-39	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-40	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	No Call	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-41	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-42	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-43	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-44	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-45	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-46	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BLANK-9	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-SUNPRE-47	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-48	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	X:X	Y:Y	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-SUNPRE-49	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-50	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-51	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-52	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-53	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-54	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-55	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	No Call	X:X
+2024-SUNPRE-56	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-57	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-58	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-59	X:X	X:Y	Y:Y	X:Y	No Call	X:X	No Call	X:Y	Y:Y	X:Y	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-60	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-61	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-62	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-63	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-64	X:X	X:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-65	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-66	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-67	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-68	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-69	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:Y	X:X	X:Y	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-70	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-71	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	X:Y	X:Y	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-72	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-73	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-74	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-75	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-76	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-77	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-78	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-79	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-80	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-81	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-82	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-83	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-84	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-85	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-86	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-87	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-88	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-89	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-90	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-91	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-92	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-93	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:Y	X:X	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-94	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-95	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-96	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-97	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	Y:Y	Y:Y	X:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-98	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-99	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-100	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-101	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-102	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-103	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-104	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-105	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-106	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-107	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-108	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-109	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-110	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-111	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-112	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	X:X	Y:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-113	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-114	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	X:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-115	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-116	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-117	X:X	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	X:Y	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-118	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-119	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	No Call	No Call	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-120	X:X	X:X	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-121	X:X	X:X	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-122	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-123	X:X	X:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	X:Y	Y:Y	X:Y	No Call	Y:Y	Y:Y	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-124	X:X	X:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	X:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-125	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-126	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-127	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-128	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-129	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-130	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	Y:Y	Y:Y	X:Y	Y:Y	No Call	X:Y	No Call	X:X	X:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-131	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-132	X:X	Y:Y	Y:Y	No Call	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-133	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-134	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-135	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-136	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-137	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	X:X	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-138	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-139	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-140	X:X	Y:Y	Y:Y	No Call	X:X	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-141	X:X	X:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-142	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-143	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-144	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-145	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-146	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-147	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-148	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-149	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-150	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-151	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-152	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-153	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	X:X	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-154	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-155	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-156	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-157	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	No Call	Y:Y	X:X
+2024-SUNPRE-158	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-159	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-160	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-161	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	X:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-162	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	Y:Y	X:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-163	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-164	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BLANK-10	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-SUNPRE-165	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-166	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-167	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-168	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-169	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	X:X	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-170	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-171	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	No Call	Y:Y
+2024-SUNPRE-172	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-173	X:X	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:Y	Y:Y	X:Y	Y:Y	X:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-174	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-175	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-176	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-177	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-178	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-179	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-180	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-181	X:X	X:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-182	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	X:X	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-183	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-184	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-185	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-186	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-187	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-188	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-189	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-190	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-191	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X
+2024-SUNPRE-192	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-193	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-194	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-195	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-196	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-197	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-198	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-199	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-200	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-201	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-202	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-203	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-204	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-205	X:X	X:X	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-206	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-207	X:X	X:X	Y:Y	X:Y	No Call	X:X	Y:Y	Y:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-208	X:X	X:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-209	X:X	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	X:Y	Y:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-210	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	X:Y	Y:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:Y	X:X	X:X	Y:Y	X:X	Y:Y	X:Y
+2024-SUNPRE-211	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	No Call	X:X
+2024-SUNPRE-212	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-213	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-214	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-215	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-216	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-217	X:X	X:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	X:X	Y:Y	X:X
+2024-SUNPRE-218	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-219	X:X	X:X	Y:Y	X:X	X:X	No Call	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-220	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-221	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-222	X:X	Y:Y	Y:Y	No Call	No Call	No Call	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-223	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	No Call	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-224	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-225	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-226	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-227	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUNPRE-228	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUNPRE-229	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-230	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call	No Call
+2024-SUNPRE-231	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	No Call	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-232	X:Y	Y:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	X:X	Y:Y	No Call	No Call	X:Y	No Call	X:X	X:X	X:X	X:Y	X:X	Y:Y	X:X
+2024-SUNPRE-233	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUNPRE-234	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-620	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-621	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-622	Y:Y	Y:Y	Y:Y	X:X	Y:Y	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-623	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-624	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-625	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-626	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-627	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-628	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-629	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X	Y:Y	Y:Y
+2024-BIGSIX-630	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-631	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-632	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-633	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-634	X:Y	Y:Y	Y:Y	X:X	No Call	X:X	X:X	X:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-635	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-636	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-637	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-BIGSIX-638	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-639	Y:Y	Y:Y	Y:Y	X:X	No Call	X:X	No Call	X:X	Y:Y	X:X	X:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-640	Y:Y	Y:Y	Y:Y	X:X	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-641	X:X	Y:Y	Y:Y	X:X	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	Y:Y	X:X	X:X	X:X	Y:Y	X:Y
+2024-BIGSIX-642	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-BIGSIX-643	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	No Call	X:X	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-7	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-8	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-9	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-10	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-11	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	No Call	Y:Y	X:X
+2024-SUWWSN-12	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-13	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	X:X	X:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-14	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-15	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-16	X:X	Y:Y	Y:Y	Y:Y	No Call	No Call	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-17	X:Y	X:Y	Y:Y	X:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:Y
+2024-SUWWSN-18	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	Y:Y
+2024-SUWWSN-19	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	No Call	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-20	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-21	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	X:X	Y:Y	Y:Y	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-22	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-23	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	X:X	X:X	Y:Y	Y:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-24	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	Y:Y	Y:Y	X:X	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-25	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-26	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	X:X	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-27	X:X	Y:Y	Y:Y	Y:Y	X:X	X:X	No Call	Y:Y	Y:Y	X:Y	Y:Y	X:Y	No Call	No Call	Y:Y	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-28	X:X	Y:Y	Y:Y	Y:Y	X:X	No Call	No Call	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	X:X	X:X	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-29	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	No Call	X:X	Y:Y	X:X	Y:Y	Y:Y	No Call	No Call	X:X	No Call	Y:Y	No Call	X:X	X:X	X:X	Y:Y	X:X
+2024-SUWWSN-30	X:X	Y:Y	Y:Y	Y:Y	No Call	X:X	X:X	Y:Y	Y:Y	X:X	X:X	Y:Y	No Call	No Call	X:X	No Call	Y:Y	X:X	X:X	X:X	X:X	Y:Y	X:X

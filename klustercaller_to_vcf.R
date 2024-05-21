@@ -1,16 +1,23 @@
+### FOR DEBUG ###
+# keyfile <- "klustercaller_keyfile_example.txt"
+# kc_file <- "klustercaller_file_example.txt"
+# verbose <- TRUE
+# out_file <- "klustercaller_to_vcf_example_output"
+
 # Get command-line arguments from Bash
 args <- commandArgs(trailingOnly = TRUE)
 
 # Assign arguments to variables
-key_file <- args[1]
-cc_file <- args[2]
+keyfile <- args[1]
+kc_file <- args[2]
 verbose <- ifelse(args[3]=="true", TRUE, FALSE)
 out_file <- args[4]
 
 # Check for verbose
 if(verbose==TRUE){
+  
   # Get message
-  print_string="### Initiating conversion of ClusterCaller data to VCF in R! ###"
+  print_string="### Initiating conversion of KlusterCaller data to VCF in R! ###"
   
   # Measure string
   n=nchar(print_string)
@@ -19,49 +26,63 @@ if(verbose==TRUE){
   print(paste(rep("#", n), collapse = ""))
   print(print_string)
   print(paste(rep("#", n), collapse = ""))
+  
 }
 
 
 # Read in data
-kasp_data <- read.table(cc_file, header=TRUE, sep="\t", na.strings=c("", "NA"), check.names=FALSE)
-key_file <- read.table(key_file, header=TRUE, sep="\t", na.strings=c("", "NA"), check.names=FALSE)
+kasp_data <- read.table(kc_file, header=TRUE, sep="\t", na.strings=c("", "NA"), check.names=FALSE)
+keyfile <- read.table(keyfile, header=TRUE, sep="\t", na.strings=c("", "NA"), check.names=FALSE)
 
 # Check for verbose
 if(verbose==TRUE){
-  # Display head
-  print("")
-  print("### ClusterCaller head")
+  
+  # Display head of KlusterCaller data
+  print("### KlusterCaller head")
   print(kasp_data[1:5,1:3])
-  print("")
+  
+  # Display head of KlusterCaller keyfile
   print("### Keyfile head")
-  print(key_file[1:5,1:5])
-  print("")
+  print(keyfile[1:5,1:5])
+  
 }
 
-# Pull list of markers
+# Pull list of markers in KlusterCaller data
 markers_kasp_data <- colnames(kasp_data)[2:ncol(kasp_data)]
-markers_key_file <- key_file[,"marker"]
-markers_key_file <- markers_key_file[markers_key_file %in% markers_kasp_data]
+
+# Pull list of markers in keyfile
+markers_keyfile <- keyfile[,"marker"]
+
+# Pull all markers in the keyfile found in the kasp data
+markers_keyfile <- markers_keyfile[markers_keyfile %in% markers_kasp_data]
 
 # Check for duplicated markers in either file
 if(any(duplicated(markers_kasp_data))){
+  
+  # If there is an error, print the following
   print("Error: There are duplicated markers in the ClusterCaller file. Check inputs and resubmit with unique marker names!")
   stop("There are duplicated markers in the ClusterCaller file. Check inputs and resubmit with unique marker names!")
-}else if(any(duplicated(markers_key_file))){
+  
+}else if(any(duplicated(markers_keyfile))){
+  
+  # If there is an error, print the following
   print("Error: There are duplicated markers in the key file. Check inputs and resubmit with unique marker names!")
   stop("There are duplicated markers in the key file. Check inputs and resubmit with unique marker names!")
+  
 }
 
 # make a pattern for illegal characters
 illegal_pattern <- "[^XY:No Call]"
 
-# Check if all markers are found in files
-if(length(markers_key_file)==length(markers_kasp_data)){
+# Check if all markers are found in both files
+if(length(markers_keyfile)==length(markers_kasp_data)){
+
   # Make an empty vector for the vcf output
   vcf<-c()
   
   # Run for loop
   for(i in unique(markers_kasp_data)){
+
     # Print
     if(verbose==TRUE){print(paste("### Formatting marker =", i))}
     
@@ -73,9 +94,11 @@ if(length(markers_key_file)==length(markers_kasp_data)){
     
     # Check illegal character is found
     if (any(grepl(illegal_pattern, temp1[,2]))) {
+
       # If illegal characters are found, throw an error
       print(paste("Error: Illegal character found in column ", i, " of ClusterCaller file!", sep = ""))
       stop("Illegal character found in column ", i, " of ClusterCaller file!")
+      
     }
     
     # Make into rownames
@@ -87,100 +110,53 @@ if(length(markers_key_file)==length(markers_kasp_data)){
                         check.names = FALSE)
     
     # Pull key
-    temp2 <- key_file[key_file[,"marker"]==i,]
+    temp2 <- keyfile[keyfile[,"marker"]==i,]
     
-    # if
-    if(as.character(temp2[1,"X"])=="N"){
-      # Replace things in temp1
-      temp1[,1] <- suppressWarnings(gsub("X", temp2[1,"X"], temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub("Y", temp2[1,"Y"], temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub("No Call", 
-                                         paste(temp2[,"No Call"], 
-                                               ":", 
-                                               temp2[,"No Call"],
-                                               sep = ""), 
-                                         temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub(":", "/", temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub(temp2[1,"Y"], 0, temp1[,1]))
-      #temp1[,1] <- suppressWarnings(gsub(temp2[1,"X"], 1, temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub("N", ".", temp1[,1]))
-      temp1.1 <- as.vector(temp1[,1])
-      names(temp1.1) <- rownames(temp1)
-      temp1 <- temp1.1
-      remove(temp1.1)
-      
-      # Pull info
-      temp3 <- suppressWarnings(as.character(temp2[1,"chr"]))
-      temp4 <- suppressWarnings(as.numeric(temp2[1,"position"]))
-      temp5 <- suppressWarnings(as.character(temp2[1,"marker"]))
-      temp6 <- suppressWarnings(as.character(temp2[1,"X"]))
-      temp7 <- suppressWarnings(as.character(temp2[1,"Y"]))
-      
-      # Make vcf line
-      temp3 <- data.frame("#CHROM" = temp3,
-                          POS = temp4,
-                          ID = temp5,
-                          REF = ifelse(temp7=="N", ".", temp7),
-                          ALT = ifelse(temp6=="N", ".", temp6),
-                          QUAL = ".",
-                          FILTER = "PASS",
-                          INFO = ".",
-                          FORMAT = "GT",
-                          t(temp1),
-                          check.names = FALSE)
-      rownames(temp3) <- NULL
-      
-      # Rbind into vcf
-      vcf <- rbind(vcf, temp3)
-      
-      # Remove
-      remove(temp1, temp2, temp3, temp4, temp5, temp6, temp7)        
-    }else{
-      # Replace things in temp1
-      temp1[,1] <- suppressWarnings(gsub("X", temp2[1,"X"], temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub("Y", temp2[1,"Y"], temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub("No Call", 
-                                         paste(temp2[,"No Call"], 
-                                               ":", 
-                                               temp2[,"No Call"],
-                                               sep = ""), 
-                                         temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub(":", "/", temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub(temp2[1,"Y"], 0, temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub(temp2[1,"X"], 1, temp1[,1]))
-      temp1[,1] <- suppressWarnings(gsub("N", ".", temp1[,1]))
-      temp1.1 <- as.vector(temp1[,1])
-      names(temp1.1) <- rownames(temp1)
-      temp1 <- temp1.1
-      remove(temp1.1)
-      
-      # Pull info
-      temp3 <- suppressWarnings(as.character(temp2[1,"chr"]))
-      temp4 <- suppressWarnings(as.numeric(temp2[1,"position"]))
-      temp5 <- suppressWarnings(as.character(temp2[1,"marker"]))
-      temp6 <- suppressWarnings(as.character(temp2[1,"X"]))
-      temp7 <- suppressWarnings(as.character(temp2[1,"Y"]))
-      
-      # Make vcf line
-      temp3 <- data.frame("#CHROM" = temp3,
-                          POS = temp4,
-                          ID = temp5,
-                          REF = ifelse(temp6=="N", ".", temp6),
-                          ALT = ifelse(temp7=="N", ".", temp7),
-                          QUAL = ".",
-                          FILTER = "PASS",
-                          INFO = ".",
-                          FORMAT = "GT",
-                          t(temp1),
-                          check.names = FALSE)
-      rownames(temp3) <- NULL
-      
-      # Rbind into vcf
-      vcf <- rbind(vcf, temp3)
-      
-      # Remove
-      remove(temp1, temp2, temp3, temp4, temp5, temp6, temp7)           
-    }
+    # Replace things in temp1
+    temp1[,1] <- suppressWarnings(gsub("X", temp2[1,"X"], temp1[,1]))
+    temp1[,1] <- suppressWarnings(gsub("Y", temp2[1,"Y"], temp1[,1]))
+    temp1[,1] <- suppressWarnings(gsub("No Call", 
+                                       paste(temp2[,"No Call"], 
+                                             ":", 
+                                             temp2[,"No Call"],
+                                             sep = ""), 
+                                       temp1[,1]))
+    temp1[,1] <- suppressWarnings(gsub(":", "/", temp1[,1]))
+    temp1[,1] <- suppressWarnings(gsub(temp2[1,"X"], 0, temp1[,1]))    
+    temp1[,1] <- suppressWarnings(gsub(temp2[1,"Y"], 1, temp1[,1]))
+    temp1[,1] <- suppressWarnings(gsub("N", ".", temp1[,1]))
+    temp1.1 <- as.vector(temp1[,1])
+    names(temp1.1) <- rownames(temp1)
+    temp1 <- temp1.1
+    remove(temp1.1)
+    
+    # Pull info
+    temp3 <- suppressWarnings(as.character(temp2[1,"chr"]))
+    temp4 <- suppressWarnings(as.numeric(temp2[1,"position"]))
+    temp5 <- suppressWarnings(as.character(temp2[1,"marker"]))
+    temp6 <- suppressWarnings(as.character(temp2[1,"X"]))
+    temp7 <- suppressWarnings(as.character(temp2[1,"Y"]))
+    
+    # Make vcf line
+    temp3 <- data.frame("#CHROM" = temp3,
+                        POS = temp4,
+                        ID = temp5,
+                        REF = ifelse(temp6=="N", ".", temp6),
+                        ALT = ifelse(temp7=="N", ".", temp7),
+                        QUAL = ".",
+                        FILTER = "PASS",
+                        INFO = ".",
+                        FORMAT = "GT",
+                        t(temp1),
+                        check.names = FALSE)
+    rownames(temp3) <- NULL
+    
+    # Rbind into vcf
+    vcf <- rbind(vcf, temp3)
+    
+    # Remove
+    remove(temp1, temp2, temp3, temp4, temp5, temp6, temp7)
+    
   }
   
   # Make header text
@@ -291,25 +267,31 @@ if(length(markers_key_file)==length(markers_kasp_data)){
               col.names = FALSE,
               quote = FALSE,
               sep = "\t")
+  
+# Else if there is not a complete list of markers in both files  
 }else{
+  
   # Throw error
   if(verbose==TRUE){
+    
+    # Print error for read out
     print("ERROR: Not all marker names are found in both files. Check case, presence, and spelling of markers listed below!")
     print("################################################")
     print("### Printing marker names in files for debug ###")
     print("################################################")
-    print("")
-    print("######################################")
-    print("Markers in ClusterCaller file yet not in key file:")
+    print("Markers in KlusterCaller file yet not in key file:")
     print("------------------------------")
-    string <- ifelse(length(markers_kasp_data[!markers_kasp_data %in% markers_key_file])==0, 
+    string <- ifelse(length(markers_kasp_data[!markers_kasp_data %in% markers_keyfile])==0, 
                      "No Missing Markers!",
-                     markers_kasp_data[!markers_kasp_data %in% markers_key_file])
+                     markers_kasp_data[!markers_kasp_data %in% markers_keyfile])
     print(string)
     print("######################################")
+    
   }
   
+  # Exit with error
   stop("Not all marker names are found in both files. Check case, presence, and spelling of marker names!")
+  
 }
 
 # Displaying warnings
