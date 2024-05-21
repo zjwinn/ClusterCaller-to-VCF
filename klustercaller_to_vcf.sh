@@ -65,7 +65,7 @@ done
 shift $((OPTIND -1))
 
 # # Check if required options are provided
-if [ -z "$key_file" ] || [ -z "$cc_file" ] || [ -z "$out_file" ]; then
+if [ -z "$key_file" ] || [ -z "$kc_file" ] || [ -z "$out_file" ]; then
     echo "Error: Required options are missing. Please provide keyfile, KlusterCaller, and output file arguments."
     usage
 fi
