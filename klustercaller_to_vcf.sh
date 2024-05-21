@@ -27,7 +27,7 @@ usage() {
     echo -e "\t-o, --out-file               Name of the vcf to write out (string with no spaces and no following .vcf)"
     echo
     echo "Examples:"
-    echo -e "\tbash $0 -k klustercaller_keyfile_example.txt -c klustercaller_file_example.txt -o klustercaller_to_vcf_output_example -v"
+    echo -e "\tbash $0 -k klustercaller_keyfile_example.txt -c klustercaller_file_example.txt -o example_output -v"
     exit 1
 }
 
