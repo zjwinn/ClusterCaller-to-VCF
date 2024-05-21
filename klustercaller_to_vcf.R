@@ -1,17 +1,17 @@
 ### FOR DEBUG ###
-# keyfile <- "klustercaller_keyfile_example.txt"
-# kc_file <- "klustercaller_file_example.txt"
-# verbose <- TRUE
-# out_file <- "klustercaller_to_vcf_example_output"
+keyfile <- "klustercaller_keyfile_example.txt"
+kc_file <- "klustercaller_file_example.txt"
+verbose <- TRUE
+out_file <- "klustercaller_to_vcf_example_output"
 
 # Get command-line arguments from Bash
 args <- commandArgs(trailingOnly = TRUE)
 
 # Assign arguments to variables
-keyfile <- args[1]
-kc_file <- args[2]
-verbose <- ifelse(args[3]=="true", TRUE, FALSE)
-out_file <- args[4]
+# keyfile <- args[1]
+# kc_file <- args[2]
+# verbose <- ifelse(args[3]=="true", TRUE, FALSE)
+# out_file <- args[4]
 
 # Check for verbose
 if(verbose==TRUE){
